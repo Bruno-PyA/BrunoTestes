@@ -30,8 +30,8 @@ body {
     position: fixed;
     top: 10;
     width: 100%;
-    background-color: #fff; /* cor de fundo do menu */
-    z-index: 9999; /* z-index alto para garantir que o menu fique acima de outros elementos */
+    background-color: #fff;
+    z-index: 9999;
 }
 
 .mySlides {
@@ -51,16 +51,16 @@ body {
 }
 
 .doctorwho {
-    width: 200px; /* Defina a largura desejada */
-    height: auto; /* Mantém a proporção da imagem */
-  }
+    width: 200px;
+    height: auto;
+}
 
 .piluleswho {
     font-family: "Alatsi", sans-serif;
     font-size: 800;
     color: black;
-    width: 200px; /* Defina a largura desejada */
-    height: auto; /* Mantém a proporção da imagem */
+    width: 200px;
+    height: auto;
 }
 
 .pilulas {
@@ -79,8 +79,8 @@ body {
     font-family: "Alatsi", sans-serif;
     font-size: 800;
     color: black;
-    width: 200px; /* Defina a largura desejada */
-    height: auto; /* Mantém a proporção da imagem */
+    width: 200px;
+    height: auto;
 
 }
 
@@ -188,8 +188,8 @@ footer {
 .social-links li a {
     display: block;
     padding: 10px;
-    background-color: #f0f0f0; /* Cor de fundo */
-    border-radius: 10px; /* Bordas arredondadas */
+    background-color: #f0f0f0;
+    border-radius: 10px;
     text-decoration: none;
     color: black;
     text-align: center;
